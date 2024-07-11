@@ -29,7 +29,7 @@ Hotspot is a comprehensive food delivery app designed to offer an intuitive and 
 
 ### UI/UX
 
-![Screenshot 1](https://dummyimage.com/600x400/000/fff&text=UI+Screenshot+1)
+![dummy_oye 1](https://github.com/umar-amin/hotspot_food_delivery_app/blob/main/Untitled%20design%20(9).png)
 ![Screenshot 2](https://dummyimage.com/600x400/000/fff&text=UI+Screenshot+2)
 ![Screenshot 3](https://dummyimage.com/600x400/000/fff&text=UI+Screenshot+3)
 ![Screenshot 4](https://dummyimage.com/600x400/000/fff&text=UI+Screenshot+4)
