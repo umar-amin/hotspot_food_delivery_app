@@ -1,4 +1,4 @@
-Got it! Here's the final version of the `README.md` with the correct contact email:
+Sure, here's the final version of the `README.md` with your additional request:
 
 ---
 
@@ -56,6 +56,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any inquiries, please contact me at umar@funzoft.com.
 
----
-
-Replace `path/to/your/image6.png` and `path/to/your/image7.png` with the actual paths to your code structure images. The dummy URLs under the UI/UX section can be replaced with your actual image URLs.
+If you are a client interested in developing an app like this or any other type of app, please reach out to me at umar@funzoft.com.
