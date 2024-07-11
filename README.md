@@ -1,3 +1,7 @@
+Got it! Here's the final version of the `README.md` with the correct contact email:
+
+---
+
 # Hotspot
 
 Hotspot is a comprehensive food delivery app designed to offer an intuitive and seamless food delivery experience. This repository showcases the features and design of the app as part of my portfolio.
@@ -29,7 +33,7 @@ Hotspot is a comprehensive food delivery app designed to offer an intuitive and 
 
 ### UI/UX
 
-![dummy_oye 1](https://github.com/umar-amin/hotspot_food_delivery_app/blob/main/Untitled%20design%20(9).png)
+![Screenshot 1](https://dummyimage.com/600x400/000/fff&text=UI+Screenshot+1)
 ![Screenshot 2](https://dummyimage.com/600x400/000/fff&text=UI+Screenshot+2)
 ![Screenshot 3](https://dummyimage.com/600x400/000/fff&text=UI+Screenshot+3)
 ![Screenshot 4](https://dummyimage.com/600x400/000/fff&text=UI+Screenshot+4)
@@ -50,7 +54,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries, please contact me at [your email address].
+For any inquiries, please contact me at umar@funzoft.com.
 
 ---
 
