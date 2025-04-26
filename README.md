@@ -33,11 +33,11 @@ Hotspot is a comprehensive food delivery app designed to offer an intuitive and 
 
 ### UI/UX
 
-![Screenshot 1](https://dummyimage.com/600x400/000/fff&text=UI+Screenshot+1)
-![Screenshot 2](https://dummyimage.com/600x400/000/fff&text=UI+Screenshot+2)
-![Screenshot 3](https://dummyimage.com/600x400/000/fff&text=UI+Screenshot+3)
-![Screenshot 4](https://dummyimage.com/600x400/000/fff&text=UI+Screenshot+4)
-![Screenshot 5](https://dummyimage.com/600x400/000/fff&text=UI+Screenshot+5)
+![Screenshot 1](https://play-lh.googleusercontent.com/btSqWthDXIQYbV5tm76taJpePeDdfrVu8DGsEl7MhlBIeo2BicTIP9Cfygs_M1_Y6w=w2560-h1440-rw)
+![Screenshot 2](https://play-lh.googleusercontent.com/QV-5kpevDwA5datYu0L7x0tvIzD9dN8P3CZ6zIs_1I2HXLDEU5MF8Lp2Mz8cbFvdI9Q=w2560-h1440-rw)
+![Screenshot 3](https://play-lh.googleusercontent.com/iqLxoGHICRN6g57MZTnB5spfhJxAPKsq0AnrsyzJI5r8fPWhHrCQsAlIJdCM3va5eDc=w2560-h1440-rw)
+![Screenshot 4](https://play-lh.googleusercontent.com/c6Kga0G6kF0FSalUjIeZBSN09b3fk5SwQvCUPZjbxWn3bpOHT45ZyjXByhOIlfHbAA=w2560-h1440-rw)
+
 
 ### Code Structure
 
